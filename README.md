@@ -1,4 +1,12 @@
-### Hi there 👋
+👏🏼 Here is Teslasama's GitHub, I hope you can find what you're looking for.
+
+- 🔭 I’m currently working on Gaming Engine project which inspired by The Cherno.
+
+- ⚡ Fun fact: Gamer/Snowboarding/Motocycle
+
+- Blog: [TeslaX](https://ltp19930730.github.io/)
+
+![](https://raw.githubusercontent.com/ltp19930730/ltp19930730/main/assets/github-contribution-grid-snake.svg)
 
 <!--
 **ltp19930730/ltp19930730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
